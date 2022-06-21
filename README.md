@@ -1,6 +1,7 @@
 # 1601616 김홍필 프로젝트 랩 발표자료
 # 블록도
-![image](https://user-images.githubusercontent.com/107902377/174746375-b2db59b0-89e8-4f9e-9c80-85bdf965255b.png)
+![image](https://user-images.githubusercontent.com/107902377/174748640-48fa8a47-8550-42c6-ae8f-b66d85466653.png)
+
 
 # 동작영상
 
